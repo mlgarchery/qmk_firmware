@@ -28,3 +28,6 @@
 [submodule "keyboards/quacken"]
 	path = keyboards/quacken
 	url = https://github.com/trilowy/quacken-qmk.git
+[submodule "keyboards/quacken_upside_down"]
+	path = keyboards/quacken_upside_down
+	url = https://github.com/mlgarchery/quacken_upside_down.git
